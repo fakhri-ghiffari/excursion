@@ -1,6 +1,7 @@
 * {
     background-color: black;
     text-align: center;
+    color: white;
 }
 
 h1 {
@@ -28,3 +29,16 @@ p {
     text-align: center;
 }
 
+a {
+    color: aquamarine;
+}
+
+.phone {
+    margin-top: 40px;
+}
+
+.fa-copyright {
+    color: gray;
+    float: right;
+    font-size: 21px;
+}
